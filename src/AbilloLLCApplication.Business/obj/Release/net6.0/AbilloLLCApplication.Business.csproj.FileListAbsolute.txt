@@ -1,0 +1,17 @@
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Business.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Business.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Business.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Database.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Database.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\bin\Release\net6.0\AbilloLLCApplication.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.csproj.AssemblyReference.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.csproj.CopyComplete
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\refint\AbilloLLCApplication.Business.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\AbilloLLCApplication.Business.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Business\obj\Release\net6.0\ref\AbilloLLCApplication.Business.dll

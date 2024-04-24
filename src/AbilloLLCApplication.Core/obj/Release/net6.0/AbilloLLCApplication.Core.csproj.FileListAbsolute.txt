@@ -1,0 +1,12 @@
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\bin\Release\net6.0\AbilloLLCApplication.Core.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\bin\Release\net6.0\AbilloLLCApplication.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\bin\Release\net6.0\AbilloLLCApplication.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.csproj.AssemblyReference.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\refint\AbilloLLCApplication.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\AbilloLLCApplication.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Core\obj\Release\net6.0\ref\AbilloLLCApplication.Core.dll

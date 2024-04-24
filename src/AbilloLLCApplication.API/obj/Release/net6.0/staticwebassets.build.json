@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "QpdtWfhoKUXkzXSzW//RUhyedMmdsIydA/z4l1TXaLM=",
+  "Source": "AbilloLLCApplication.API",
+  "BasePath": "_content/AbilloLLCApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AbilloLLCApplication.API\\wwwroot",
+      "Source": "AbilloLLCApplication.API",
+      "ContentRoot": "C:\\Users\\binch\\OneDrive\\Рабочий стол\\TuranProjects\\TuranProjectApp\\AbilloLLCApplication\\src\\AbilloLLCApplication.API\\wwwroot\\",
+      "BasePath": "_content/AbilloLLCApplication.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\binch\\OneDrive\\Рабочий стол\\TuranProjects\\TuranProjectApp\\AbilloLLCApplication\\src\\AbilloLLCApplication.API\\wwwroot\\Secret\\AblloLLCSecret.json",
+      "SourceId": "AbilloLLCApplication.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\binch\\OneDrive\\Рабочий стол\\TuranProjects\\TuranProjectApp\\AbilloLLCApplication\\src\\AbilloLLCApplication.API\\wwwroot\\",
+      "BasePath": "_content/AbilloLLCApplication.API",
+      "RelativePath": "Secret/AblloLLCSecret.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Secret\\AblloLLCSecret.json"
+    },
+    {
+      "Identity": "C:\\Users\\binch\\OneDrive\\Рабочий стол\\TuranProjects\\TuranProjectApp\\AbilloLLCApplication\\src\\AbilloLLCApplication.API\\wwwroot\\Secret\\token.json\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+      "SourceId": "AbilloLLCApplication.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\binch\\OneDrive\\Рабочий стол\\TuranProjects\\TuranProjectApp\\AbilloLLCApplication\\src\\AbilloLLCApplication.API\\wwwroot\\",
+      "BasePath": "_content/AbilloLLCApplication.API",
+      "RelativePath": "Secret/token.json/Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Secret\\token.json\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user"
+    }
+  ]
+}

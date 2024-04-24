@@ -1,0 +1,17 @@
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\bin\Release\net6.0\AbilloLLCApplication.Database.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\bin\Release\net6.0\AbilloLLCApplication.Database.runtimeconfig.json
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\bin\Release\net6.0\AbilloLLCApplication.Database.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\bin\Release\net6.0\AbilloLLCApplication.Database.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\bin\Release\net6.0\AbilloLLCApplication.Core.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\bin\Release\net6.0\AbilloLLCApplication.Core.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.csproj.AssemblyReference.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.csproj.CopyComplete
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\refint\AbilloLLCApplication.Database.dll
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.pdb
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\AbilloLLCApplication.Database.genruntimeconfig.cache
+C:\Users\binch\OneDrive\Рабочий стол\TuranProjects\TuranProjectApp\AbilloLLCApplication\src\AbilloLLCApplication.Database\obj\Release\net6.0\ref\AbilloLLCApplication.Database.dll
